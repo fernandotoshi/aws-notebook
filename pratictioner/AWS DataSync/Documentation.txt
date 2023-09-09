@@ -1,0 +1,13 @@
+How it works
+Transfer data between on premises and AWS
+AWS DataSync is a secure, online service that automates and accelerates moving data between on premises and AWS Storage services. DataCync can copy data between Network File System (NFS) shares, Server Message Block (SMB) shares, Hadoop Distributed File Systems (HDFS), self-managed object storage, AWS Snowcone, Amazon Simple Storage Service (Amazon S3) buckets, Amazon Elastic File System (Amazon EFS) file systems, Amazon FSx for Windows File Server file systems, Amazon FSx for Lustre file systems, Amazon FSz for OpenZFS file systems, and Amazon FSx for NetApp ONTAP file systems.
+
+Use cases
+1. Migrate your data
+	Quickly move file and object data to AWS. Your data is secure with inflight encryption and end-to-end data validation.
+2. Protect your data
+	Securely replicate your data into cost-efficient AWS storage services, including any Amazon S3 storage class.
+3. Archive your cold data
+	Reduce on-premises storage costs by moving data directly to Amazon S3 Glacier archive storage classes.
+4. Manage your hybrid data workflows
+	Seamlessly move data between on-premises systems and AWS to accelerate your critical hybrid workflows

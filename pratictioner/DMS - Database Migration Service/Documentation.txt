@@ -1,0 +1,14 @@
+Database Migration Service (DMS) simplifies the process of migrating your databases to the AWS cloud. Database migration can be a complex and time-consuming task, but AWS DMS aims to make it easier and more efficient.
+
+How it Works
+AWS Database Migration Service (AWS DMS) is a managed migration and replication service that helps move your database and analytics workloads to AWS quickly, securely, and with minimal downtime and zero data loss.
+
+Use cases
+1. Move to managed databases
+	Migrate from legacy or on-premises databases to managed cloud services through a simplified migration process, removing undifferentiated database management tasks.
+2. Remove licensing costs and accelerate business growth
+	Modernize to purpose-built databases to innovate and build faster for any use case at scale for one-tenth the cost.
+3. Replicate ongoing changes
+	Create redundancies of businesss-critical databases and data stores to minimize downtime and protect against any data loss.
+4. Improve integration with data lakes
+	Build data lakes and perform real-time processing on change data from your data stores.
