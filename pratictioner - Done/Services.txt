@@ -1,0 +1,41 @@
+EC2
+ECS
+Fargate
+Lambda
+AppRunner (Pseudo Serverless)
+AWS Elastic Beanstalk
+AWS Cloud Formation
+EBS
+CloudTrail
+AWS Cloud Watch
+S3
+	Glacier
+	Glacier Deep Archive
+AWS Config
+EFS
+AWS Snowball
+AWS Trusted Advisor
+Route 53
+	Simple Routing
+	Weighted Routing
+	Latency-Based Routing
+	Failover Routing
+	Geolocation Routing
+	Geo-proximity Routing
+	Multi-value Answer Routing
+AWS Artifact
+AWS License Manager
+AWS Control Tower
+AWS Service Catalog
+AWS Certificate Manager
+AWS Systems Manager Parameter Store
+AWS Secrets Manager
+AWS KMS
+AWS CloudHSM
+AWS Cognito
+AWS IAM
+AWS Single Sign-On
+AWS Detective
+AWS Macie
+AWS Shield
+Network ACL
